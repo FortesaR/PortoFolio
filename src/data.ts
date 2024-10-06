@@ -1,7 +1,7 @@
 import atlasImage from './assets/image/atlas.png';
 import edmaImage from './assets/image/Edma.png';
 import portfolioImage from './assets/image/portfolio.png';
-import project4Gif from './assets/image/project-4.gif';
+
 
 type  Project = {
     title: string;
